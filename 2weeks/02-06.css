@@ -1,0 +1,20 @@
+*{box-sizing: border-box;}
+.div1{
+    width: 400px;
+    height: 400px;
+    background-color: black;
+}
+
+.div2{
+    width: 200px;
+    height: 200px;
+    background-color: blue;
+}
+
+.div3{
+    width: 200px;
+    height: 200px;
+    background-color: blue;
+    margin-left: 200px;
+
+}
